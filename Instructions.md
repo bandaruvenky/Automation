@@ -30,9 +30,8 @@ Documents are copied under docs folder in the project
 ## Usage
 The following steps will help you run tests:
 
-* Clone the project 
-	1. Clone the repository
-		git clone .git
+* Clone the repository 
+	1. git clone .git
 	
 * Using Eclispe:
 	1. Open Eclipse -> File -> Import -> Existing Maven projects -> Provide the path of the maven project till pom.xml
