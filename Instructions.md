@@ -1,12 +1,13 @@
-#  QA tech challenge - Venkat Bandaru
+# QA tech challenge - Venkat Bandaru
 
 ## Overview
-Included in this repository are tests for given for the QA tech challenge, test frameworks and extent report libraries.
-Data-Driven Selenium framework based on Page object model provides ability to test Raisin web application. It also adds helper methods for most common functions and builds beautiful, interactive and detailed HTML reports for the tests. Screenshots, tags, devices and machine details are included in the report.
+Included in this repository are 3 tests for given for the QA tech challenge, test frameworks and extent report libraries.
+Developed Data-Driven Selenium framework based on Page object model provides ability to test Raisin web application. It also adds helper methods for most common functions and builds beautiful, interactive and detailed HTML reports for the tests. Screenshots, tags, devices and machine details are also included in the report.
 
 ## Documents
-1. As requested I have first defined the test cases before preparing the automation test suite. Please refer to the document “Raisin_QA-Challenge-TestCases.xls” under Documents directory in project.
-2. Created manual test cases for the “User story 3”. Please refer to the document “Raisin-QA-Challenge_Manual_TestCases.doc” under Documents directory in project.
+Documents are copied under docs folder in the project
+1. As requested I have first defined the test cases before preparing the automation test suite. Please refer to the document “Raisin_QA-Challenge-TestCases.xls”.
+2. Created manual test cases for the “User story 3”. Please refer to the document “Raisin-QA-Challenge_Manual_TestCases.doc”.
 3. Also proactively I have prepared and attached an automation test report named “Raisin_QA-Challenge-TestReport .doc“ for this whole user stories which will give additional information and insight into how I have approached the tech challenge. 
 
 
@@ -30,7 +31,8 @@ Data-Driven Selenium framework based on Page object model provides ability to te
 The following steps will help you run tests:
 
 * Clone the project 
-	git clone repo
+	1. Clone the repository
+		git clone .git
 	
 * Using Eclispe:
 	1. Open Eclipse -> File -> Import -> Existing Maven projects -> Provide the path of the maven project till pom.xml
